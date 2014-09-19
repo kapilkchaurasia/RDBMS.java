@@ -1,4 +1,4 @@
-package com.samsung.RDBMS;
+package com.kapil.interface.RDBMS;
 
 import java.util.ArrayList;
 import java.util.HashMap;
