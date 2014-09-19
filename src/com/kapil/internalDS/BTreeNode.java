@@ -1,4 +1,4 @@
-package com.kapil.BPlusTree;
+package com.kapil.internalDS.BPlusTree;
 
 enum TreeNodeType {
 	InnerNode,
