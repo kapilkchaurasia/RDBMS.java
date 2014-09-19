@@ -1,4 +1,4 @@
-package com.samsung.BPlusTree;
+package com.kapil.BPlusTree;
 
 enum TreeNodeType {
 	InnerNode,
