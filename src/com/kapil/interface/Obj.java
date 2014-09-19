@@ -1,4 +1,4 @@
-package com.samsung.RDBMS;
+package com.kapil.interface.RDBMS;
 
 public class Obj{
 	
