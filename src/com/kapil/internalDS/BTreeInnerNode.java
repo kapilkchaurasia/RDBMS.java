@@ -1,4 +1,4 @@
-package com.samsung.BPlusTree;
+package com.kapil.BPlusTree;
 
 class BTreeInnerNode<TKey extends Comparable<TKey>> extends BTreeNode<TKey> {
 	protected final static int INNERORDER = 4;
