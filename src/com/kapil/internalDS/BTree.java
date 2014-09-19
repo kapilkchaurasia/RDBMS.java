@@ -1,4 +1,4 @@
-package com.samsung.BPlusTree;
+package com.kapil.BPlusTree;
 
 public class BTree<TKey extends Comparable<TKey>, TValue> {
 	protected BTreeNode<TKey> root;
