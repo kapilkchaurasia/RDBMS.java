@@ -1,4 +1,4 @@
-package com.kapil.BPlusTree;
+package com.kapil.internalDS.BPlusTree;
 
 public class BTree<TKey extends Comparable<TKey>, TValue> {
 	protected BTreeNode<TKey> root;
