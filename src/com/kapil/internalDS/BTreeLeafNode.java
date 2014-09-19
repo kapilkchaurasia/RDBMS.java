@@ -1,4 +1,4 @@
-package com.samsung.BPlusTree;
+package com.kapil.BPlusTree;
 
 public class BTreeLeafNode<TKey extends Comparable<TKey>, TValue> extends BTreeNode<TKey> {
 	protected final static int LEAFORDER = 4;
