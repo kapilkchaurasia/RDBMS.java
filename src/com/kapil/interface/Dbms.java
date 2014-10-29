@@ -3,7 +3,7 @@ package com.kapil.interface.RDBMS;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.samsung.RDBMS.Database;
+import com.kapil.RDBMS.Database;
 
 public class Dbms{
 	
